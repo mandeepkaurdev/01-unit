@@ -1,0 +1,68 @@
+body {
+    background: url(assets/bckgrnd.png)
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+    padding-left: 20px;
+    width: 300px;
+    line-height: 20%;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+section {
+    background-color: rgba(150, 150, 150, 0.6);
+    color:#FFFFFF;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+}
+
+
+footer {
+    text-align: center;
+    border-top: 2px solid white;
+    padding-top: 20px;
+    font-size: 12px;
+}
+
+header {
+        color: #333333;
+    }
+    
+#mandeep {
+        border-width: 3px;
+        border-style: solid;
+        border-color:#2c5fa8;
+        display: inline-block;
+        border-radius: 100px;
+}
+
+nav {
+    padding-bottom: 25px;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+div {
+    padding-bottom: 100px;
+    border-top: 2px solid white;
+    padding-top: 35px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    width: 300px;
+    margin: 20px;
+    padding-bottom: 10px;
+}
