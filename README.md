@@ -4,7 +4,7 @@
 
 ## Part 1: Portfolio
 
-Follow the instructions below: 
+Followed the instructions below: 
 
 * Read these short articles on how to link to images in your `assets` folder 
 
