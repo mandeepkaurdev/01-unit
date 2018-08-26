@@ -4,7 +4,7 @@
 
 ## Part 1: Portfolio
 
-Followed the instructions below: 
+## Instructions 
 
 * Read these short articles on how to link to images in your `assets` folder 
 
@@ -47,10 +47,14 @@ Followed the instructions below:
   * Add the appropriate color for text in the top and bottom sections, `#333333` and `#FFFFFF`. 
 
   * Set appropriate margins, padding, and widths to match the image below.
-
+  
+  
   ---
 
+
   ## Part 2: Programming Fundamentals
+  
+  ## Instructions 
 
   Read the following article: [https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
 
