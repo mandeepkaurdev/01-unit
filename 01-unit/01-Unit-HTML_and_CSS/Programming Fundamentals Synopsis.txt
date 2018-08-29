@@ -1,0 +1,9 @@
+You Don’t Know JS: Up & Going: 
+
+Chapter 1: "Intro Programming" Synopsis
+
+An introduction to programming languages at a very high level that slowly moves towards JavaScript concepts and covers the essential programming building blocks, including operators, values & types, variables, blocks, conditionals, loops, and functions in addition to statements and expressions.
+
+It explains what's going on internally with the JavaScript engine when it encounters variables. It breaks down the most fundamental concepts such as scope, blocks and input/output as well as not stopping at defining, but takes things a step further by defining how basic JavaScript operates. It talks about function as a clustered sequence of operation to perform a well defined action. Example: The phone store employee doesn't carry around a calculator to figure out the taxes and final purchases amount. That's a task she needs to define once and reuse over and over again. The company has a checkout register with those "functions" built in. 
+
+Lastly, It covers the importance of code comments for readable code and stresses on the power of practice coding, the best way to learn code is to write code.
