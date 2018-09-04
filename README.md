@@ -66,4 +66,4 @@
 
   * Your summary must be at least 150 words.
   
-  * Your summary must include one analogy. Example "A conditional is like a fork in the road. You go one way if you want to go home and another if you want to go to work"
+  * Your summary must include one analogy. Example "A conditional is like a fork in the road. You go one way if you want to go home and another if you want to go to work."
